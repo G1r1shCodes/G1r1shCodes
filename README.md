@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Girish Kumar Yadav!<br>🚀 I'm a 2nd-year Computer Science student at IILM University, passionate about technology, coding, and building impactful projects.<br>💻 I specialize in Java, C, Python, and web development (HTML, CSS).<br>📚 Currently learning about blockchain, data structures, algorithms, and exploring open-source contributions.<br>🔧 I enjoy contributing to GitHub and enhancing my skills in emerging technologies.<br>🌱 Always learning and open to collaborating on interesting projects.<br>📬 Feel free to reach out to me for collaboration or any inquiries!
+👋 Hi, I'm Girish Kumar Yadav!<br>🚀 I'm a 2nd-year Computer Science student at IILM University, passionate about technology, coding, and building impactful projects.<br>💻 I specialize in Java, C, Python, and web development (HTML, CSS).<br>🔧 I enjoy contributing to GitHub and enhancing my skills in emerging technologies.<br>🌱 Always learning and open to collaborating on interesting projects.<br>📬 Feel free to reach out to me for collaboration or any inquiries!
 
 
 # 💻 Tech Stack:
