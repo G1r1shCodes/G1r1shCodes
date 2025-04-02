@@ -13,7 +13,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=G1r1shCodes&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_seconds=1800)
+![](https://github-contributor-stats.vercel.app/api?username=G1r1shCodes&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_seconds=0)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=G1r1shCodes&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
