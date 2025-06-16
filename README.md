@@ -24,23 +24,27 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=G1r1shCodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-
+<!-- GitHub Readme Stats -->
+<a href="https://github.com/G1r1shCodes">
+  <img src="https://github-readme-stats.vercel.app/api?username=G1r1shCodes&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="G1r1shCodes's GitHub stats" height="180"/>
+</a>
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=G1r1shCodes&theme=dark&hide_border=false" />
-
+<!-- GitHub Readme Streak Stats -->
+<a href="https://github.com/G1r1shCodes">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G1r1shCodes&theme=dark&hide_border=false" alt="GitHub Streak" height="180"/>
+</a>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&theme=dark&hide_border=false&layout=compact" />
+<!-- GitHub Top Languages -->
+<a href="https://github.com/G1r1shCodes">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Langs" height="180"/>
+</a>
 
 </div>
-
----
 
 ## 🏆 GitHub Trophies
 [![Trophies](https://github-profile-trophy.vercel.app/?username=G1r1shCodes&theme=darkhub&no-frame=false&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
