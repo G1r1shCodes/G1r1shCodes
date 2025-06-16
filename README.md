@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### 👋 Hey there! I'm Girish Kumar Yadav  
-🎓 2nd-year Computer Science student at **IILM University**  
+🎓 3rd-year Computer Science student at **IILM University**  
 💡 Passionate about tech, coding, and solving real-world problems  
 🌱 Currently exploring Machine Learning, Web Development, and Open Source    
 
