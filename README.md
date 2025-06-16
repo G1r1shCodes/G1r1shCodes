@@ -36,9 +36,6 @@
 <!-- GitHub Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&theme=dark&layout=compact" height="180"/>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=G1r1shCodes&theme=darkhub" height="180"/>
----
 
 ## ✨ Daily Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
