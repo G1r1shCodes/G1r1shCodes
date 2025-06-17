@@ -42,12 +42,6 @@
 <!-- Contribution Snake (auto-updating contribution graph) -->
 [![Contribution Snake](https://github.com/G1r1shCodes/G1r1shCodes/blob/output/github-contribution-grid-snake.svg)](https://github.com/G1r1shCodes/G1r1shCodes/blob/output/github-contribution-grid-snake.svg)
 
-<!-- Simple Shields.io Badges -->
-<br>
-![Profile Views](https://komarev.com/ghpvc/?username=G1r1shCodes&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/G1r1shCodes?label=Followers&style=social)
-
-</div>
 
 ## ✨ Daily Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
