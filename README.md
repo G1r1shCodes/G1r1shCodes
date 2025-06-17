@@ -31,7 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=G1r1shCodes&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
 
 <!-- GitHub Streak Stats with fallback link -->
-[![Current GitHub streak stats](https://streak-stats.demolab.com?user=G1r1shCodes&theme=dark)](https://streak-stats.demolab.com/demo/?user=G1r1shCodes)
+![GitHub Streak](https://streak-stats.demolab.com?user=G1r1shCodes&theme=dark)
 
 <!-- GitHub Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&theme=dark&layout=compact" height="180" alt="Top Languages" />
