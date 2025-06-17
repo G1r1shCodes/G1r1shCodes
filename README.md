@@ -36,13 +36,7 @@
 <!-- GitHub Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&theme=dark&layout=compact" height="180" alt="Top Languages" />
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=G1r1shCodes&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies" />
-
-<!-- Contribution Snake (auto-updating contribution graph) -->
-[![Contribution Snake](https://github.com/G1r1shCodes/G1r1shCodes/blob/output/github-contribution-grid-snake.svg)](https://github.com/G1r1shCodes/G1r1shCodes/blob/output/github-contribution-grid-snake.svg)
-
-
+---
 ## ✨ Daily Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
