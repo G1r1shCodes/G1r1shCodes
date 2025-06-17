@@ -28,14 +28,27 @@
 <div align="center">
 
 <!-- GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=G1r1shCodes&show_icons=true&theme=dark" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=G1r1shCodes&show_icons=true&theme=dark" height="180" alt="GitHub Stats"/>
 
-<!-- GitHub Readme Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=G1r1shCodes&theme=dark" height="180"/>
+<!-- GitHub Readme Streak Stats with fallback -->
+<a href="https://streak-stats.demolab.com/demo/?user=G1r1shCodes">
+  <img src="https://streak-stats.demolab.com?user=G1r1shCodes&theme=dark" height="180" alt="Current GitHub streak stats"/>
+</a>
 
 <!-- GitHub Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&theme=dark&layout=compact" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&theme=dark&layout=compact" height="180" alt="Top Languages"/>
 
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=G1r1shCodes&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies"/>
+
+<!-- Contribution Snake Animation -->
+<img src="https://github.com/G1r1shCodes/G1r1shCodes/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+<!-- Simple Shields Badges -->
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=G1r1shCodes&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/G1r1shCodes?label=Followers&style=social)
+</div>
 
 ## ✨ Daily Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
