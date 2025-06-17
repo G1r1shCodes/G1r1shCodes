@@ -24,28 +24,35 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats
 <div align="center">
 
-<!-- GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=G1r1shCodes&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=G1r1shCodes&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
 
-<!-- GitHub Streak Stats with fallback link -->
-![GitHub Streak](https://streak-stats.demolab.com?user=G1r1shCodes&theme=dark)
+<img src="https://streak-stats.demolab.com/?user=G1r1shCodes&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 
-<!-- GitHub Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&theme=dark&layout=compact" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+
+</div>
 
 ---
+
 ## ✨ Daily Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
 
 ---
 
 ## 👥 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=G1r1shCodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=G1r1shCodes&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
 
 ---
 
 ## 👁️ Profile Views
-![](https://komarev.com/ghpvc/?username=G1r1shCodes&label=PROFILE+VIEWS&color=grey&style=flat-square)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=G1r1shCodes&label=PROFILE+VIEWS&color=grey&style=flat-square" />
+</div>
