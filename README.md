@@ -4,6 +4,7 @@
 💡 Passionate about tech, coding, and solving real-world problems  
 🌱 Currently exploring Machine Learning, Web Development, and Open Source    
 
+
 ---
 
 # 💻 Tech Stack:
@@ -24,6 +25,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
 
 ## 📊 GitHub Stats
 <div align="center">
