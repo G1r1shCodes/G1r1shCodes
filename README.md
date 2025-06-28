@@ -4,7 +4,6 @@
 💡 Passionate about tech, coding, and solving real-world problems  
 🌱 Currently exploring Machine Learning, Web Development, and Open Source    
 
-
 ---
 
 # 💻 Tech Stack:
@@ -26,15 +25,14 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=G1r1shCodes&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=G1r1shCodes&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com/?user=G1r1shCodes&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=G1r1shCodes&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="180" alt="Top Languages" />
 
 </div>
 
