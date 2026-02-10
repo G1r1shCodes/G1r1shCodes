@@ -1,36 +1,78 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+# 👋 Girish Kumar Yadav
 
-<h3 align="center">
-Girish Kumar Yadav | CSE (AI-ML) | Machine Learning • DSA • Web Dev
-</h3>
+## B.Tech CSE (AI-ML) | Machine Learning • DSA • Software Development
 
-<br/>
+🎓 3rd Year Computer Science student at **IILM University** (CGPA: 9.2/10)  
+💡 Passionate about building practical Machine Learning systems and strengthening problem-solving skills through Data Structures & Algorithms.  
+🚀 Aspiring Machine Learning Engineer / Software Developer.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,mysql,git,github,numpy,pandas" height="60" />
-</div>
+---
 
-<br/>
+## 🛠 Tech Stack
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/girishkumarcs/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/G1r1shCodes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
+### Languages
+- C
+- C++
+- Python
+- Java
+- JavaScript
 
-<br/>
+### Web
+- HTML
+- CSS
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=G1r1shCodes&theme=dracula&hide_border=false" height="150"/>
-</div>
+### Machine Learning & Data
+- NumPy
+- Pandas
+- Matplotlib
 
-<br/>
+### Tools
+- Git
+- GitHub
+- MySQL
+- Figma
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G1r1shCodes/G1r1shCodes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/G1r1shCodes/G1r1shCodes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/G1r1shCodes/G1r1shCodes/output/pacman-contribution-graph.svg">
-</picture>
+---
+
+## 📌 Featured Projects
+
+### 🔹 AQI Prediction Using Machine Learning
+- Built a regression-based ML model using real-world environmental data  
+- Performed data preprocessing and feature engineering  
+- Evaluated model performance and visualized results  
+
+### 🔹 Employee Salary Prediction Using Machine Learning
+- Developed an end-to-end ML pipeline  
+- Built an interactive Streamlit frontend  
+- Displayed model evaluation metrics (R² Score, MSE)  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G1r1shCodes&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=G1r1shCodes&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🐍 Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/G1r1shCodes/G1r1shCodes/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎯 Current Focus
+
+- Solving Data Structures & Algorithms problems (C++)  
+- Improving ML model performance and deployment  
+- Writing clean, maintainable, and efficient code  
+
+---
+
+## 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/girishkumarcs/  
+- Email: girishyadav.cs@gmail.com
