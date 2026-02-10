@@ -54,15 +54,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=G1r1shCodes&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/G1r1shCodes/G1r1shCodes/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🎯 Current Focus
 
