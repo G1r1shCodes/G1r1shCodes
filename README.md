@@ -1,10 +1,10 @@
-# 👋 Girish Kumar Yadav
+# Girish Kumar Yadav
 
 ## B.Tech CSE (AI-ML) | Machine Learning • DSA • Software Development
 
-🎓 3rd Year Computer Science student at **IILM University** (CGPA: 9.2/10)  
-💡 Passionate about building practical Machine Learning systems and strengthening problem-solving skills through Data Structures & Algorithms.  
-🚀 Aspiring Machine Learning Engineer / Software Developer.
+ 3rd Year Computer Science student at **IILM University** 
+ Passionate about building practical Machine Learning systems and strengthening problem-solving skills through Data Structures & Algorithms.  
+ Aspiring Machine Learning Engineer / Software Developer.
 
 ---
 
