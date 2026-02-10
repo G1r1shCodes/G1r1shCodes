@@ -50,8 +50,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G1r1shCodes&show_icons=true&theme=dark&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=G1r1shCodes&theme=dark&hide_border=true)
 
 
