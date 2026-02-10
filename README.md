@@ -28,11 +28,11 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=G1r1shCodes&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
-<br>
-<img src="https://streak-stats.demolab.com/?user=G1r1shCodes&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&t=12345" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="180" alt="Top Languages" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G1r1shCodes&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=G1r1shCodes&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -40,19 +40,19 @@
 
 ## ✨ Daily Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote" />
 </div>
 
 ---
 
 ## 👥 Top Contributions
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=G1r1shCodes&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=G1r1shCodes&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
 </div>
 
 ---
 
 ## 👁️ Profile Views
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=G1r1shCodes&label=PROFILE+VIEWS&color=grey&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=G1r1shCodes&label=PROFILE+VIEWS&color=0079ff&style=flat" alt="Profile Views" />
 </div>
