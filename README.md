@@ -26,33 +26,42 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G1r1shCodes&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+<p align="center">
+  <a href="https://github.com/G1r1shCodes">
+    <img src="https://github-readme-stats.vercel.app/api?username=G1r1shCodes&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=G1r1shCodes&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<p align="center">
+  <a href="https://github.com/G1r1shCodes">
+    <img src="https://streak-stats.demolab.com/?user=G1r1shCodes&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&layout=compact&theme=dark&hide_border=true)
-
-</div>
+<p align="center">
+  <a href="https://github.com/G1r1shCodes">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
 ## ✨ Daily Quote
-<div align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote" />
-</div>
+</p>
 
 ---
 
 ## 👥 Top Contributions
-<div align="center">
+<p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=G1r1shCodes&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
-</div>
+</p>
 
 ---
 
 ## 👁️ Profile Views
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=G1r1shCodes&label=PROFILE+VIEWS&color=0079ff&style=flat" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=G1r1shCodes&label=PROFILE+VIEWS&color=0079ff&style=flat-square" alt="Profile Views" />
+</p>
