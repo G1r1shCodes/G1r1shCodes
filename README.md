@@ -30,13 +30,8 @@
 <div align="center">
 
 <img height="175px" src="https://github-readme-stats.vercel.app/api?username=G1r1shCodes&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&border_radius=10&include_all_commits=true&count_private=true"/>
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1r1shCodes&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_radius=10&langs_count=8"/>
-
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=G1r1shCodes&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888&border_radius=10"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=G1r1shCodes&hide_border=true&bg_color=0b1020&color=66d9ef&line=7aa2f7&point=ff9e64&area=true&area_color=1f6feb&title_color=c792ea&radius=16"/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=G1r1shCodes&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
 </div>
 
