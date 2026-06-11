@@ -154,7 +154,15 @@
 </div>
 
 ---
+## 💻 LeetCode Stats
 
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/G1r1shCodes?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/G1r1shCodes/)
+
+</div>
+
+---
 ## Connect With Me
 
 <div align="center">
