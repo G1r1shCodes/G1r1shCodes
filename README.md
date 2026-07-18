@@ -32,7 +32,7 @@
 
 
 
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=G1r1shCodes&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888&border_radius=10"/>
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=G1r1shCodes&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888&border_radius=10&v=1"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=G1r1shCodes&hide_border=true&bg_color=0b1020&color=66d9ef&line=7aa2f7&point=ff9e64&area=true&area_color=1f6feb&title_color=c792ea&radius=16"/>
 
